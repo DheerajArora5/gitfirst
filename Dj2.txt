@@ -1,4 +1,10 @@
 yup !!
 Changes on the Central Repo
 L-git pull origin master
-
+Changed the file in the local 
+git add Dj2.txt
+git commit -m "adding Dj2.txt to central"
+git push origin master
+Refresh on the GitHub - :)
+Now, Changes made on the Central file . 
+- git pull origin master 
